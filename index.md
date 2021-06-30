@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kainat's Homepage
 
 You can use the [editor on GitHub](https://github.com/kainat000/kainat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
